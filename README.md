@@ -62,5 +62,5 @@ var classes = ["tile", "tile-" + tile_value, positionClass];
 
 **最终的效果**
 
-![](http://7xq6al.com1.z0.glb.clouddn.com/2048.gif)
+![](https://teamhost.gitbooks.io/learn-coding-with-open-source/content/zh/images/2048-4.png)
   
